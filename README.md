@@ -1,7 +1,5 @@
 # Cody AI
-
-Cody AI is a ChatGPT clone built using the OpenAI API. It allows users to interact with an AI model capable of answering questions, generating text, and assisting with various tasks, just like ChatGPT. This project showcases how to integrate OpenAI's API to create a conversational AI bot.
-
+Cody AI is a ChatGPT clone built using the OpenAI API
 ## Features
 
 - **AI-powered conversations**: Chat with Cody AI and receive responses to any question or topic.
