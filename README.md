@@ -11,8 +11,7 @@ Cody AI is a ChatGPT clone built using the OpenAI API. It allows users to intera
 ## Technologies Used
 
 - **OpenAI API**: The core of Cody AI, providing the conversational AI capabilities.
-- **React, HTML, CSS
-- **Node.js, Flask
+- **TECH USED: HTML, CSS, Javascript, OPEN AI API
 
 
 
